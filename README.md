@@ -22,3 +22,4 @@ The default database settings are for local development. Set `POSTGRES_DB`, `POS
 - `.github/workflows/ci.yml` — GitHub Actions Compose configuration and image build check.
 
 The API supports `GET` and `POST /api/tasks`, `PATCH /api/tasks/{id}`, and `DELETE /api/tasks/{id}`. `GET /health` reports API/database readiness.
+# second-vibecoded-app
