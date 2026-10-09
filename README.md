@@ -23,3 +23,4 @@ The default database settings are for local development. Set `POSTGRES_DB`, `POS
 
 The API supports `GET` and `POST /api/tasks`, `PATCH /api/tasks/{id}`, and `DELETE /api/tasks/{id}`. `GET /health` reports API/database readiness.
 # second-vibecoded-app
+# second-vibecoded-app
